@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 3901311552707387019}
   - component: {fileID: 3901311552708484171}
   m_Layer: 0
-  m_Name: Box_01
+  m_Name: PanelScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
